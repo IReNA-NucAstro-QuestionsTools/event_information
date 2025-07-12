@@ -1,2 +1,3 @@
 # event_information
-Information, all kinds of information, about the Open Questions and Research Tools in Nuclear Astrophysics summer school and hackathon at the CMU Biological Research Station in Beaver Island.
+
+Visit the [Wiki Page](https://github.com/IReNA-NucAstro-QuestionsTools/event_information/wiki) of the respository for all kinds of information for our event.
